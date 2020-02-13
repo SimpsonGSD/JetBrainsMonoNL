@@ -1,5 +1,5 @@
 # JetBrains Mono NL (no ligatures).
-This is a modified version of JetBrains Mono font without ligatures for those that do not like or are not used to ligatures. A lof of programs do not provide a way to disable ligatures meaning this is the only way to use this font without it. Hopefully JetBrains can provide both versions in the future.
+This is a version of JetBrains Mono font that has been modified to remove ligatures. This is for those that do not like or are not used to seeing ligatures but enjoy using JetBrains Mono. A lot of programs do not provide a way to disable ligatures meaning this is the only way to use JetBrains Mono without them. Hopefully JetBrains can provide both versions in the future.
 
 Original font https://www.jetbrains.com/lp/mono/
 
